@@ -1,4 +1,4 @@
-#Authentication using Node.js & Fastify
+##Authentication using Node.js & Fastify
 
 I'm looking to build out a personal finance tracking platform for myself. The stack will be this authentication API connected to MongoDB, alongside a Next.js frontend.
 
